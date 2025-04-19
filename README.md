@@ -14,11 +14,6 @@ I'm a software developer with 10+ years of experience transitioning from aviatio
 
 [![rust-ml](https://github-readme-stats.vercel.app/api/pin/?username=aarangop&repo=rust-ml&theme=radical)](https://github.com/aarangop/rust-ml)
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aarangop&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aarangop&layout=compact&theme=radical)
-
 ## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres-arango-perez-789493228)
