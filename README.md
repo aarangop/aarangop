@@ -2,11 +2,6 @@
 
 I'm a software developer with 10+ years of experience transitioning from aviation research to machine learning and data science. I combine strong mathematical foundations with practical full-stack development expertise to build robust, production-ready software solutions.
 
-## 🔭 What I'm currently working on
-
-- [rust-ml](https://github.com/aarangop/rust-ml): An educational machine learning library implementing ML algorithms in pure Rust, focusing on clean architecture and SOLID principles
-- Expanding my knowledge in machine learning, data science, and data engineering
-
 ## 💻 Tech Stack
 
 - **Languages**: Python, TypeScript, Rust
@@ -15,31 +10,17 @@ I'm a software developer with 10+ years of experience transitioning from aviatio
 - **ML/Data**: NumPy, Pandas, scikit-learn, TensorFlow
 - **Engineering**: Test-driven development, CI/CD pipelines
 
-## 🌱 I'm currently learning
+## 🌟 Featured Project
 
-- Advanced machine learning techniques
-- Rust for high-performance computing
-- Cloud infrastructure for ML Ops
-
-## 📝 Writing Saga
-
-I write about technology and philosophy on my [Substack](https://thoughtroamer.substack.com/). Recent articles:
-- [Worldviews](https://thoughtroamer.substack.com/p/cosmovisiones)
-- [The Invention of Invention](https://thoughtroamer.substack.com/p/techdev-series-0-progress-without)
-
-## 📫 How to reach me
-
-- LinkedIn: [Andres Arango Perez](www.linkedin.com/in/andres-arango-perez-789493228)
-- <!-- update and restore personal page -->
-- Email: andresap@proton.me
+[![rust-ml](https://github-readme-stats.vercel.app/api/pin/?username=aarangop&repo=rust-ml&theme=radical)](https://github.com/aarangop/rust-ml)
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=aarangop&show_icons=true&theme=radical)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aarangop&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aarangop&layout=compact&theme=radical)
 
-## 🚀 Featured Projects
+## 📫 Connect
 
-[![rust-ml](https://github-readme-stats.vercel.app/api/pin/?username=aarangop&repo=rust-ml&theme=radical)](https://github.com/aarangop/rust-ml)
-<!-- Add more featured repositories as needed -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username/)
+[![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://yoursubstack.substack.com)
+[![Personal Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://your-website-url.com)
