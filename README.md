@@ -10,9 +10,12 @@ I'm a software developer with 10+ years of experience transitioning from aviatio
 - **ML/Data**: NumPy, Pandas, scikit-learn, TensorFlow
 - **Engineering**: Test-driven development, CI/CD pipelines
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aarangop&layout=compact&theme=radical&hide=jupyter%20notebook)
+
 ## 🌟 Featured Project
 
 [![rust-ml](https://github-readme-stats.vercel.app/api/pin/?username=aarangop&repo=rust-ml&theme=radical)](https://github.com/aarangop/rust-ml)
+
 
 ## 📫 Connect
 
