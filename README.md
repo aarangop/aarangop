@@ -1,4 +1,4 @@
-# Hola! I'm Andrés 👋
+# 🇨🇴 ¡Hola! I'm Andrés 🇩🇪
 
 I'm a software developer with 10+ years of experience transitioning from aviation research to machine learning and data science. I combine strong mathematical foundations with practical full-stack development expertise to build robust, production-ready software solutions.
 
