@@ -7,7 +7,7 @@ I'm a software developer with 10+ years of experience transitioning from aviatio
 - **Languages**: Python, TypeScript, Rust
 - **Frontend**: React.js, Next.js
 - **Backend**: FastAPI, Node.js
-- **ML/Data**: NumPy, Pandas, scikit-learn, TensorFlow
+- **AI/ML**: scikit-learn, TensorFlow, LangChain, MCP
 - **Engineering**: Test-driven development, CI/CD pipelines
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aarangop&layout=compact&theme=radical&hide=jupyter%20notebook)
@@ -16,6 +16,7 @@ I'm a software developer with 10+ years of experience transitioning from aviatio
 
 [![rust-ml](https://github-readme-stats.vercel.app/api/pin/?username=aarangop&repo=rust-ml&theme=radical)](https://github.com/aarangop/rust-ml)
 [![Who's my good boy?](https://github-readme-stats.vercel.app/api/pin/?username=aarangop&repo=whos-my-good-boy&theme=radical)](https://github.com/aarangop/whos-my-good-boy)
+[![CV-Tailoring MCP Server](https://github-readme-stats.vercel.app/api/pin/?username=aarangop&repo=resume-mcp&theme=radical)](https://github.com/aarangop/resume-mcp)
 
 
 ## 📫 Connect
