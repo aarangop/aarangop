@@ -15,6 +15,7 @@ I'm a software developer with 10+ years of experience transitioning from aviatio
 ## 🌟 Featured Project
 
 [![rust-ml](https://github-readme-stats.vercel.app/api/pin/?username=aarangop&repo=rust-ml&theme=radical)](https://github.com/aarangop/rust-ml)
+[![Who's my good boy?](https://github-readme-stats.vercel.app/api/pin/?username=aarangop&repo=whos-my-good-boy&theme=radical)](https://github.com/aarangop/whos-my-good-boy)
 
 
 ## 📫 Connect
