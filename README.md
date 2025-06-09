@@ -12,13 +12,6 @@ I'm a software developer with 10+ years of experience transitioning from aviatio
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aarangop&layout=compact&theme=radical&hide=jupyter%20notebook)
 
-## 🌟 Featured Project
-
-[![rust-ml](https://github-readme-stats.vercel.app/api/pin/?username=aarangop&repo=rust-ml&theme=radical)](https://github.com/aarangop/rust-ml)
-[![Who's my good boy?](https://github-readme-stats.vercel.app/api/pin/?username=aarangop&repo=whos-my-good-boy&theme=radical)](https://github.com/aarangop/whos-my-good-boy)
-[![CV-Tailoring MCP Server](https://github-readme-stats.vercel.app/api/pin/?username=aarangop&repo=resume-mcp&theme=radical)](https://github.com/aarangop/resume-mcp)
-
-
 ## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres-arango-perez-789493228)
