@@ -1,14 +1,6 @@
 # 🇨🇴 ¡Hola! I'm Andrés 🇩🇪
 
-I'm a software developer with 10+ years of experience transitioning from aviation research to machine learning and data science. I combine strong mathematical foundations with practical full-stack development expertise to build robust, production-ready software solutions.
-
-## 💻 Stack
-
-- **Languages**: Python, TypeScript, Rust
-- **AI/ML**: scikit-learn, TensorFlow, LangChain, MCP
-- **Backend**: FastAPI, Node.js
-- **Frontend**: React.js, Next.js
-- **Engineering**: Test-driven development, CI/CD pipelines
+I'm a software developer with 10+ years of experience, who's been lately interested all things Gen AI.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aarangop&layout=compact&theme=radical&hide=jupyter%20notebook)
 
