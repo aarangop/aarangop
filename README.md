@@ -1,6 +1,6 @@
 # 🇨🇴 ¡Hola! I'm Andrés 🇩🇪
 
-I'm a software developer with 10+ years of experience, who's been lately interested all things Gen AI.
+I'm a software developer with 10+ years of experience, who's been lately interested in all things around Gen AI.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aarangop&layout=compact&theme=radical&hide=jupyter%20notebook)
 
